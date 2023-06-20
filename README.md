@@ -1,2 +1,2 @@
 # react-projects
-These are small projects to practice the fundamental concepts of the React framework. 
+These are small projects to implement the most baisc parts of websites. 
